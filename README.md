@@ -1,2 +1,2 @@
-# Go-Go-Go
-Go Language Practices
+# Go
+Programming Language Learning
