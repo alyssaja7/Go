@@ -1,3 +1,4 @@
+// Branch rning - test for getFileDiff
 package main
 
 import "fmt"
