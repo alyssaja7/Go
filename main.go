@@ -1,3 +1,4 @@
+//Adding comments for get fileDiff
 package main
 
 import "fmt"
